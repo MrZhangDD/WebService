@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="06_jaxrs_client" />
+        <module name="07_jaxrs_spring_server" />
+        <module name="02_jaxws_client" />
+        <module name="03_jaxws_spring_server" />
+        <module name="05_jaxrs_server" />
+        <module name="04_jaxws_spring_client" />
+        <module name="08_jaxrs_spring_client" />
+        <module name="01_jaxws_server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01_jaxws_server" target="1.8" />
+      <module name="02_jaxws_client" target="1.8" />
+      <module name="03_jaxws_spring_server" target="1.8" />
+      <module name="04_jaxws_spring_client" target="1.8" />
+      <module name="05_jaxrs_server" target="1.8" />
+      <module name="06_jaxrs_client" target="1.8" />
+      <module name="07_jaxrs_spring_server" target="1.8" />
+      <module name="08_jaxrs_spring_client" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

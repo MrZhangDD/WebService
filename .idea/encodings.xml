@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01_jaxws_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01_jaxws_server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_jaxws_client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03_jaxws_spring_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03_jaxws_spring_server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_jaxws_spring_client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_jaxws_spring_client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05_jaxrs_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05_jaxrs_server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06_jaxrs_client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06_jaxrs_client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07_jaxrs_spring_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07_jaxrs_spring_server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08_jaxrs_spring_client/src/main/java" charset="UTF-8" />
+  </component>
+</project>
